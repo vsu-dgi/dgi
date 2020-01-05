@@ -3,14 +3,14 @@
 
 #### Пример веб-сайта на Flask: 
 
-https://github.com/andrei-q/vsu-flask
+https://github.com/vsu-dgi/vsu-flask
 
 
 
 
 #### Пример на PyTorch: 
 
-https://github.com/andrei-q/vsu-pytorch
+https://github.com/vsu-dgi/vsu-pytorch
 
 
 
