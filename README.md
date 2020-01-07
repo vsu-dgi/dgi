@@ -16,7 +16,7 @@ https://github.com/vsu-dgi/vsu-pytorch
 
 
 
-#### Доступ к удаленному серверу на AWS:
+##### Доступ к удаленному серверу на AWS:
 
 Public DNS:  **ec2-35-180-138-129.eu-west-3.compute.amazonaws.com**
 
