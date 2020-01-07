@@ -5,7 +5,8 @@
 
 https://github.com/vsu-dgi/vsu-flask
 
-
+Примеры запуска flask-приложения на repl.it можно посмотреть здесь:
+- https://repl.it/@MikeShi42/flask
 
 
 #### Пример на PyTorch: 
